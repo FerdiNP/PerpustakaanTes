@@ -12,3 +12,10 @@
 ![image](https://user-images.githubusercontent.com/53221378/122364548-0d421780-cf84-11eb-8d85-0d67a9755daf.png)
 ### - Tambah Data Peminjaman
 ![image](https://user-images.githubusercontent.com/53221378/122364577-1337f880-cf84-11eb-9c5a-0d804ccb2737.png)
+### - Edit Data Anggota
+![image](https://user-images.githubusercontent.com/53221378/122365306-c0ab0c00-cf84-11eb-96e5-ed2bf928bb0b.png)
+### - Edit Data Buku
+![image](https://user-images.githubusercontent.com/53221378/122365331-c6085680-cf84-11eb-9c22-a5c1944fe8b5.png)
+### - Edit Data Peminjaman
+![image](https://user-images.githubusercontent.com/53221378/122365371-d02a5500-cf84-11eb-9c48-d17436493486.png)
+
