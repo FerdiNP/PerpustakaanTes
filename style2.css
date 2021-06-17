@@ -1,0 +1,74 @@
+body{
+  background-color: #30302f;
+}
+
+h2{
+    font-family: verdana;
+    color : #0fbcf9;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: Kozuka Gothic Pro;
+    background-color: #434343;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    color: #ffa824;
+    padding: 18px 18px;
+}
+
+ul li a:hover{
+  background-color : #4e4e4e;
+  border-radius: 8px;
+}
+
+table{
+  background-color: #2b2a29;
+}
+
+th{
+   background-color: #434343;
+   color: #ffa824;
+
+}
+
+th, td{
+      padding: 15px 15px 15px 15px ;
+}
+
+td{
+  color: #0fbcf9;
+}
+
+.tombol_data{
+  color: red;
+}
+
+.tombol_edit{
+  background-color: blue;
+  text-decoration: none;
+  color: white;
+  padding: 10x 10x;
+  border-radius: 2x;
+}
+
+.tombol_hapus{
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  padding: 10x 10x;
+  border-radius: 2x;
+}
