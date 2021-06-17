@@ -7,7 +7,7 @@
 ### - Data Anggota
 ![image](https://user-images.githubusercontent.com/53221378/122364523-074c3680-cf84-11eb-9113-65b1c6e3c318.png)
 ### - Tambah Data Anggota
-![image](https://user-images.githubusercontent.com/53221378/122364906-68740a00-cf84-11eb-8323-63a879028aa3.png)
+![image](https://user-images.githubusercontent.com/53221378/122365122-9bb69900-cf84-11eb-9fad-b71f546ba615.png)
 ### - Data Peminjaman
 ![image](https://user-images.githubusercontent.com/53221378/122364548-0d421780-cf84-11eb-8d85-0d67a9755daf.png)
 ### - Tambah Data Peminjaman
